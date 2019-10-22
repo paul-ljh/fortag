@@ -1,6 +1,3 @@
-Jiahui Li
-20608545
-
 Entire application was written, run, tested in MacOS JAVA 12.
 
 Type "make" to compile the application
